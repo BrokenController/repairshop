@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<crdb>
+	<config>
+		<directories>
+			<directory type="input"><fileName>inputData\input</fileName>
+			</directory>
+
+			<directory type="processed"><fileName>inputData\output/processed</fileName>
+			</directory>
+
+			<directory type="bad"><fileName>inputData\bad</fileName>
+			</directory>
+
+			<directory type="shoptables"><fileName>inputData\shopTables</fileName>
+			</directory>
+
+		</directories>
+	</config>
+</crdb>
